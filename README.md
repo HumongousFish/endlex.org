@@ -1,4 +1,1 @@
-fun main() {
-println("fortnite")
-// fortnite
-}
+Public main void print system.ln ("fortnite") enter
